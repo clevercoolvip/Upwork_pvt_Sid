@@ -1,0 +1,1 @@
+This dataset describes information related to Container Shipping, which relates to the process of coordinating the transportaton of goods by ships smoothly.
